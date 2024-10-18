@@ -1,7 +1,7 @@
 # Pets Go Script New Game Big Games [PGO] Redzhub
 # SCRIPT:
 
-**script: loadstring(game:HttpGet('https://raw.githubusercontent.com/sevastyann/script/main/.lua'))()**
+**script: loadstring(game:HttpGet('https://darkscripts.space/scripts/199ad74237.lua', true))()**
 
 copy this script and paste into injector this is an all in 1
 
@@ -15,7 +15,7 @@ To run script you need an injector vega,delta,fluxus,pr arceous x is best https:
 
 to run new script run and install injector then run the script once loaded into main account as u will need alt accounts aswellif u want for mailing items Now updated for new Petsim99 update Hacker Matrix farm hacker keys to open chest for huges Auto farms diamonds,coins,potions, auto dig auto fish, autopop balloons, auto quest for masteryand each mastery auto level from 1st stage to 216 auto farm pet chest new update auto farm 3 x huges in bank robbery auto hatch eggs with disabling animation to summon eggs faster auto trade items in market placewithout being at stand auto snipe turn on and off get noptification when item sniped if usrs make a mistake input 1 diamond or 10k in 1st box and second box put maxmum u want to snipe at (yes users make mistakes) auto change server in market place when searching for items if you cant find it in current market once item is sniped have them auto mailed to your next account (special feature) auto dm players, auto farm chest run and lucky blocks on server
 
-![355542826-e855a711-b084-4eaa-b985-493644953ca5](https://github.com/user-attachments/assets/406b8b03-1b56-4c73-9718-62df08fd1c5c)
+![gwegweuig-1](https://github.com/user-attachments/assets/da1c33c4-20fc-4807-b130-3360cebf9657)
 
 # TAGS
 
