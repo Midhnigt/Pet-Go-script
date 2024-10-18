@@ -1,4 +1,4 @@
-# Pet Simulator 99 Script 2024 ELEMENTAL WORLD UPDATE [PS99]
+# Pets Go Script New Game Big Games [PGO] Redzhub
 # SCRIPT:
 
 **script: loadstring(game:HttpGet('https://raw.githubusercontent.com/sevastyann/script/main/.lua'))()**
